@@ -1,6 +1,6 @@
 # flutteruisisin
 
-A new Flutter application.
+Chusco App
 
 ## Getting Started
 
